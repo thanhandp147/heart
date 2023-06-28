@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID":"EPJFRX9T32.org.reactjs.native.example.react-native-animation",
+                "paths":["*"]
+            }
+        ]
+    }
+}
